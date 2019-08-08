@@ -4,11 +4,14 @@
   "description": "This is a prototype app for editing images to export for usage in custom phone case design.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zarmendariz/bundlerImageApp.git"
+    "url": "git@github.com:zarmendariz/bundlerImageApp.git"
   },
   "keywords": [],
   "author": "",
