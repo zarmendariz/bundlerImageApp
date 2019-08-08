@@ -1,0 +1,25 @@
+{
+  "name": "bundlerImageApp",
+  "version": "1.0.0",
+  "description": "This is a prototype app for editing images to export for usage in custom phone case design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarmendariz/bundlerImageApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarmendariz/bundlerImageApp/issues"
+  },
+  "homepage": "https://github.com/zarmendariz/bundlerImageApp#readme",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
