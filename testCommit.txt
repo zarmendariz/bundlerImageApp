@@ -1,1 +1,0 @@
-Hello Raf, this is a test file I'm going to commit using git.
