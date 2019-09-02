@@ -14,22 +14,24 @@
     "url": "git@github.com:zarmendariz/bundlerImageApp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zachary Armendariz, Rafael Armendariz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zarmendariz/bundlerImageApp/issues"
   },
   "homepage": "https://github.com/zarmendariz/bundlerImageApp#readme",
   "dependencies": {
-    "@shopify/koa-shopify-auth": "^3.1.31",
+    "@shopify/koa-shopify-auth": "^3.1.36",
     "@shopify/network": "^1.4.1",
-    "dotenv": "^8.0.0",
+    "@shopify/polaris": "^4.0.0",
+    "@zeit/next-css": "^1.0.1",
+    "dotenv": "^8.1.0",
     "isomorphic-fetch": "^2.2.1",
-    "koa": "^2.7.0",
-    "koa-session": "^5.12.2",
-    "next": "^9.0.3",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "koa": "^2.8.1",
+    "koa-session": "^5.12.3",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "engines": {
     "node": "10.16.2"

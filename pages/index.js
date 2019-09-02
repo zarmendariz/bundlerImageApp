@@ -1,6 +1,10 @@
+import { TextStyle } from '@shopify/polaris';
+
 const Index = () => (
   <div>
-    <p>Sample app using React and Next.js</p>
+    <TextStyle variation="positive">
+      It's interesting that changes can update in real time.
+    </TextStyle>
   </div>
 );
 
